@@ -1,0 +1,43 @@
+/* style.css */
+/* Colors */
+button {
+  background-color: #845ec2;
+  padding: 101px;
+  border: none;
+  padding: 6px 40px;
+  margin: 4px 2px;
+  border-radius: 50px;
+  color: white; }
+
+nav button {
+  padding: 10px 20px;
+  border-radius: 10px; }
+  nav button:nth-child(1) {
+    background-color: #ff6e90; }
+  nav button:nth-child(2) {
+    background-color: #ff9576; }
+  nav button:nth-child(3) {
+    background-color: #db5dac; }
+
+[type="submit"] {
+  padding: 15px 50px; }
+
+/* Text colors */
+body {
+  color: #000; }
+
+/* Header */
+h1 {
+  font-size: 24px; }
+
+h2 {
+  font-size: 20px; }
+
+.navigation {
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px; }
+  .navigation__link {
+    margin-right: 10px;
+    color: #6b7280;
+    text-decoration: none; }
